@@ -1,4 +1,4 @@
-Amazon Automation Tool
+------------------------------------------------------ AMAZON AUTOMATION TOOL ------------------------------------------------------
 
 A powerful Amazon product scraper built using Python and Selenium, designed to extract high-value product data including titles, prices, bullet points, ASINs, shipping info, and
 images—automated across multiple pages with smart human-like delays and captcha detection handling.
