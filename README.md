@@ -3,8 +3,7 @@ Amazon Automation Tool
 A powerful Amazon product scraper built using Python and Selenium, designed to extract high-value product data including titles, prices, bullet points, ASINs, shipping info, and
 images—automated across multiple pages with smart human-like delays and captcha detection handling.
 
-🧰 Features
-
+🧰 Features:
 🔍 Search Page Automation
   Navigates Amazon search pages and visits product listings automatically.
 📦 Detailed Product Extraction
@@ -32,7 +31,7 @@ images—automated across multiple pages with smart human-like delays and captch
 7) 🪪 Cookie Loader
   Loads stored cookies for smoother browsing and login bypass.
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 * Python 3.9+
 * Selenium WebDriver
@@ -40,13 +39,12 @@ images—automated across multiple pages with smart human-like delays and captch
 * CSV, JSON, Pickle, Logging Modules
 * XPath / CSS Selectors for Precision Scraping
 
-📁 Output Example (CSV Columns)
+📁 Output Example (CSV Columns):
 
 | Title | Description | Image URLs | Price | ASIN | Part Number | Shipping Price | Bullet Points | Material | Color |
 | ----- | ----------- | ---------- | ----- | ---- | ----------- | -------------- | ------------- | -------- | ----- |
 
-🚀 How It Works
-
+🚀 How It Works:
 1. Sets up a real Chrome browser session with a spoofed user agent.
 2. Loads cookies (if available) to reduce login friction.
 3. Automatically sets your ZIP code for region-specific data.
@@ -55,17 +53,16 @@ images—automated across multiple pages with smart human-like delays and captch
 6. Avoids captcha triggers with delays and browser flags.
 7. Moves to the next page until the maximum page count is reached.
 
-📸 Sample Use Case
+📸 Sample Use Case:
 > Need to scrape all cabinet hardware listings under a certain category?
 > Just update the search URL and ZIP code—this tool will handle the rest automatically.
 
-📩 Hire Me
-Do you need custom automation for Amazon, AliExpress, eBay, or any other e-commerce platform?
+📩 Hire Me:
+ Do you need custom automation for Amazon, AliExpress, eBay, or any other e-commerce platform?
 💼 I'm available for freelance projects!
 
 📧 Contact Me:
-
-Email: `your-email@example.com`
-Fiverr: \[your-fiverr-link]
+Email:  roohanitech121@gmail.com
+Fiverr: https://www.fiverr.com/users/roohullah2020/
 
 Let’s automate your next scraping or e-commerce project! 🤖✨
