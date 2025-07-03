@@ -18,7 +18,7 @@ images—automated across multiple pages with smart human-like delays and captch
   * High-quality product image URLs
 
 1) 🔁 Pagination Support
-  Scrapes through up to N-Number of pages per session automatically.
+  Scrapes through up to N-number of pages per session automatically.
 2) ⚙️ Smart Captcha Detection
   Detects Amazon captchas and stops execution safely.
 3) ✅ Duplicate ASIN Check
@@ -29,8 +29,7 @@ images—automated across multiple pages with smart human-like delays and captch
   All scraped data is exported in a well-structured CSV format.
 6) 🧠 Human-like Delays
   Adds random sleep timers to avoid bot detection.
-
-🪪 Cookie Loader
+7) 🪪 Cookie Loader
   Loads stored cookies for smoother browsing and login bypass.
 
 🛠️ Technologies Used
