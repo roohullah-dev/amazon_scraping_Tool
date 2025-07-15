@@ -4,9 +4,9 @@ A powerful Amazon product scraper built using Python and Selenium, designed to e
 images—automated across multiple pages with smart human-like delays and captcha detection handling.
 
 🧰 Features:
-🔍 Search Page Automation
-  Navigates Amazon search pages and visits product listings automatically.
-📦 Detailed Product Extraction
+🔍 Search Page Automation                                                                                                                                        
+  Navigates Amazon search pages and visits product listings automatically.                                                                                                                 
+📦 Detailed Product Extraction                                                                                                                                                
   Extracts:
   * Title
   * Full description
@@ -17,19 +17,19 @@ images—automated across multiple pages with smart human-like delays and captch
   * High-quality product image URLs
 
 1) 🔁 Pagination Support
-  Scrapes through up to N-number of pages per session automatically.
+  Scrapes through up to N-number of pages per session automatically.                                                                                                                 
 2) ⚙️ Smart Captcha Detection
-  Detects Amazon captchas and stops execution safely.
+  Detects Amazon captchas and stops execution safely.                                                                                                                 
 3) ✅ Duplicate ASIN Check
-  Prevents scraping of already existing ASINs stored in `amazon_products.csv`.
+  Prevents scraping of already existing ASINs stored in `amazon_products.csv`.                                                                                                                 
 4) 📍 Auto ZIP Code Setup
-  Automatically sets a custom ZIP code for location-specific results.
+  Automatically sets a custom ZIP code for location-specific results.                                                                                                                 
 5) 💾 Data Export to CSV
-  All scraped data is exported in a well-structured CSV format.
+  All scraped data is exported in a well-structured CSV format.                                                                                                                 
 6) 🧠 Human-like Delays
-  Adds random sleep timers to avoid bot detection.
+  Adds random sleep timers to avoid bot detection.                                                                                                                 
 7) 🪪 Cookie Loader
-  Loads stored cookies for smoother browsing and login bypass.
+  Loads stored cookies for smoother browsing and login bypass.                                                                                                                 
 
 🛠️ Technologies Used:
 
@@ -62,7 +62,7 @@ images—automated across multiple pages with smart human-like delays and captch
 💼 I'm available for freelance projects!
 
 📧 Contact Me:
-Email:  roohanitech121@gmail.com
-Fiverr: https://www.fiverr.com/users/roohullah2020/
+Email:  roohanitech121@gmail.com                                                                                                                                                                 
+Fiverr: https://www.fiverr.com/roohullah2020/                                                                                                        
 
 Let’s automate your next scraping or e-commerce project! 🤖✨
