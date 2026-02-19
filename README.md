@@ -62,7 +62,7 @@ images—automated across multiple pages with smart human-like delays and captch
 💼 I'm available for freelance projects!
 
 📧 Contact Me:
-Email:  roohanitech121@gmail.com                                                                                                                                                                 
+Email:  roohullahdev5@gmail.com                                                                                                                                                                 
 Fiverr: https://www.fiverr.com/roohullah2020/                                                                                                        
 
 Let’s automate your next scraping or e-commerce project! 🤖✨
